@@ -1,0 +1,17 @@
+{
+  "name": "onbbu-redis",
+  "version": "8.0.5",
+  "description": "Framework Onbbu - Redis",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {},
+  "dependencies": {
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.7.4"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

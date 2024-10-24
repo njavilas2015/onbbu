@@ -1,0 +1,20 @@
+{
+  "name": "onbbu-sign",
+  "version": "8.0.1",
+  "description": "Framework Onbbu - Sign",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {},
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1",
+    "onbbu-core": "^8.0.3"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/node": "^22.7.4"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

@@ -1,5 +1,4 @@
 import jwt, { JsonWebTokenError } from "jsonwebtoken";
-import moment from "moment";
 import { IResponse } from "onbbu-core";
 
 class Sign<IPayload extends jwt.JwtPayload> {
@@ -32,14 +31,16 @@ class Sign<IPayload extends jwt.JwtPayload> {
 
             const data: IPayload = jwt.verify(token, this.SECRET_KEY) as IPayload;
 
-            if (data.exp <= moment().unix()) {
-                return this.error_response()
+            const now: number = Math.floor(Date.now() / 1000); // Tiempo actual en segundos
+
+            if (data.exp <= now) {
+                return this.error_response();
             }
 
             const response: IPayload = {
                 ...data,
-                exp: moment.unix(data.exp).format(),
-                iat: moment.unix(data.iat).format(),
+                exp: new Date(data.exp * 1000).toISOString(),
+                iat: new Date(data.iat * 1000).toISOString(),
             };
 
             return { statusCode: "success", data: response };

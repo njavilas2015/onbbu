@@ -10,7 +10,7 @@ export function or(schema: z.ZodObject<any>, fields: string[]) {
 
 export function validSchema<T, Payload>(schema: ZodSchema<T>, payload: Payload): Payload {
 
-	const parsed = schema.safeParse(payload);
+	const parsed: z.SafeParseReturnType<T, T> = schema.safeParse(payload);
 
 	if (!parsed.success) {
 

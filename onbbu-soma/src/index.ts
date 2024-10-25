@@ -2,7 +2,7 @@ import { IPromiseResponse } from "onbbu-core"
 import { IExceptions, Postsynaptic } from "onbbu-axon";
 import Cortex from "onbbu-cortex";
 
-export class Contract<T> {
+class Contract<T> {
     name: string
 
     constructor() {

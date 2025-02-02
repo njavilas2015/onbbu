@@ -1,0 +1,61 @@
+{
+    "event": "taskCreated",
+    "history_items": [
+        {
+            "id": "4408060415444645835",
+            "type": 1,
+            "date": "1738537014843",
+            "field": "task_creation",
+            "parent_id": "901107367862",
+            "data": {
+                "via": "user",
+                "trace_id": "5530888375429732534",
+                "subcategory_id": "901107367862"
+            },
+            "source": "user",
+            "user": {
+                "id": 114291412,
+                "username": "Nelson Javier Avila",
+                "email": "njavilas2015@gmail.com",
+                "color": "",
+                "initials": "NA",
+                "profilePicture": None
+            },
+            "before": None,
+            "after": None
+        },
+        {
+            "id": "4408060415444645836",
+            "type": 1,
+            "date": "1738537014843",
+            "field": "status",
+            "parent_id": "901107367862",
+            "data": {
+                "status_type": "open"
+            },
+            "source": None,
+            "user": {
+                "id": 114291412,
+                "username": "Nelson Javier Avila",
+                "email": "njavilas2015@gmail.com",
+                "color": "",
+                "initials": "NA",
+                "profilePicture": None
+            },
+            "before": {
+                "status": None,
+                "color": "#000000",
+                "type": "removed",
+                "orderindex": -1
+            },
+            "after": {
+                "status": "to do",
+                "color": "#87909e",
+                "orderindex": 0,
+                "type": "open"
+            }
+        }
+    ],
+    "task_id": "868cbn0ar",
+    "webhook_id": "7ab95f76-cd68-4f94-9333-7e3409ec245c"
+}

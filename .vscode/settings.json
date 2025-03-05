@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
-        "CICD",
-        "dotenv",
-        "jsonify"
+        "authtoken",
+        "djangorestframework",
+        "dtos",
+        "filterset",
+        "sessionmaker",
+        "simplejwt",
+        "viewsets"
     ]
 }

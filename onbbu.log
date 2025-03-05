@@ -1,0 +1,131 @@
+{"timestamp": "2025-03-03 14:42:58", "level": "ERROR", "message": "❌ No models found. Check Check `INSTALLED_APPS`."}
+{"timestamp": "2025-03-03 14:45:12", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 14:45:14", "level": "ERROR", "message": "❌ No models found. Check Check `INSTALLED_APPS`."}
+{"timestamp": "2025-03-03 14:45:30", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 14:45:38", "level": "ERROR", "message": "❌ No models found. Check Check `INSTALLED_APPS`."}
+{"timestamp": "2025-03-03 14:46:09", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 14:46:12", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-03 14:46:12", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-03 14:46:12", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-03 14:46:12", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-03 14:46:12", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-03 14:47:45", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 14:47:45", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-03 14:48:21", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-03 14:48:21", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-03 14:48:21", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-03 14:48:21", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-03 14:48:21", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-03 14:48:49", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 14:48:49", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-03 14:48:54", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-03 14:48:54", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-03 14:48:54", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-03 14:48:54", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-03 14:48:54", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-03 14:50:30", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 14:50:30", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-03 14:57:23", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-03 14:57:24", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-03 14:57:24", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-03 14:57:24", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-03 14:57:24", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-03 14:57:24", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-03 14:57:30", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 14:57:30", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-03 15:09:36", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-03 15:09:51", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-03 15:09:56", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-03 15:10:26", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-03 15:13:37", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-03 15:13:37", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> wrapper ({'HEAD', 'GET'})"}
+{"timestamp": "2025-03-03 15:13:37", "level": "INFO", "message": "🔗 /crm/discounts -> wrapper ({'HEAD', 'GET'})"}
+{"timestamp": "2025-03-03 15:13:37", "level": "INFO", "message": "🔗 /crm/discounts -> wrapper ({'POST'})"}
+{"timestamp": "2025-03-03 15:13:37", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> wrapper ({'PUT'})"}
+{"timestamp": "2025-03-03 15:13:37", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> wrapper ({'DELETE'})"}
+{"timestamp": "2025-03-03 15:13:38", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-03 15:13:38", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-03 15:13:38", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-03 15:13:38", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-03 15:13:38", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-03 15:14:09", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 15:14:09", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-03 15:14:11", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-03 15:14:11", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> get ({'HEAD', 'GET'})"}
+{"timestamp": "2025-03-03 15:14:11", "level": "INFO", "message": "🔗 /crm/discounts -> get_all ({'HEAD', 'GET'})"}
+{"timestamp": "2025-03-03 15:14:11", "level": "INFO", "message": "🔗 /crm/discounts -> create ({'POST'})"}
+{"timestamp": "2025-03-03 15:14:11", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> update ({'PUT'})"}
+{"timestamp": "2025-03-03 15:14:11", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> delete ({'DELETE'})"}
+{"timestamp": "2025-03-03 15:14:12", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-03 15:14:12", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-03 15:14:12", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-03 15:14:12", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-03 15:14:12", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-03 15:15:00", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 15:15:00", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-03 15:17:08", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-03 15:17:08", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> get ({'HEAD', 'GET'})"}
+{"timestamp": "2025-03-03 15:17:08", "level": "INFO", "message": "🔗 /crm/discounts -> get_all ({'HEAD', 'GET'})"}
+{"timestamp": "2025-03-03 15:17:08", "level": "INFO", "message": "🔗 /crm/discounts -> create ({'POST'})"}
+{"timestamp": "2025-03-03 15:17:08", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> update ({'PUT'})"}
+{"timestamp": "2025-03-03 15:17:08", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> delete ({'DELETE'})"}
+{"timestamp": "2025-03-03 15:17:09", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-03 15:17:09", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-03 15:17:09", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-03 15:17:09", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-03 15:17:09", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-03 15:35:06", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 15:35:06", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-03 15:41:12", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-03 15:41:12", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> get ({'HEAD', 'GET'})"}
+{"timestamp": "2025-03-03 15:41:12", "level": "INFO", "message": "🔗 /crm/discounts -> get_all ({'HEAD', 'GET'})"}
+{"timestamp": "2025-03-03 15:41:12", "level": "INFO", "message": "🔗 /crm/discounts -> create ({'POST'})"}
+{"timestamp": "2025-03-03 15:41:12", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> update ({'PUT'})"}
+{"timestamp": "2025-03-03 15:41:12", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> delete ({'DELETE'})"}
+{"timestamp": "2025-03-03 15:41:13", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-03 15:41:13", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-03 15:41:13", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-03 15:41:13", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-03 15:41:13", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-03 17:48:14", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-03 17:48:14", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-04 19:38:36", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-04 19:38:36", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> get ({'GET', 'HEAD'})"}
+{"timestamp": "2025-03-04 19:38:36", "level": "INFO", "message": "🔗 /crm/discounts -> get_all ({'GET', 'HEAD'})"}
+{"timestamp": "2025-03-04 19:38:36", "level": "INFO", "message": "🔗 /crm/discounts -> create ({'POST'})"}
+{"timestamp": "2025-03-04 19:38:36", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> update ({'PUT'})"}
+{"timestamp": "2025-03-04 19:38:36", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> delete ({'DELETE'})"}
+{"timestamp": "2025-03-04 19:38:37", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-04 19:38:37", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-04 19:38:37", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-04 19:38:37", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-04 19:38:37", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-04 19:52:52", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-04 19:52:52", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-04 19:59:00", "level": "INFO", "message": "🚀 Iniciando servidor en 0.0.0.0:8000 ..."}
+{"timestamp": "2025-03-04 19:59:00", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> get ({'GET', 'HEAD'})"}
+{"timestamp": "2025-03-04 19:59:00", "level": "INFO", "message": "🔗 /crm/discounts -> get_all ({'GET', 'HEAD'})"}
+{"timestamp": "2025-03-04 19:59:00", "level": "INFO", "message": "🔗 /crm/discounts -> create ({'POST'})"}
+{"timestamp": "2025-03-04 19:59:00", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> update ({'PUT'})"}
+{"timestamp": "2025-03-04 19:59:00", "level": "INFO", "message": "🔗 /crm/discounts/{id} -> delete ({'DELETE'})"}
+{"timestamp": "2025-03-04 19:59:01", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-04 19:59:01", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-04 19:59:01", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-04 19:59:01", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-04 19:59:01", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-04 20:55:03", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-04 20:55:03", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-04 20:55:26", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-04 20:55:26", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-04 20:55:26", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-04 20:55:26", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-04 20:55:26", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-04 21:02:43", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-04 21:02:43", "level": "INFO", "message": "✅ Database connections closed."}
+{"timestamp": "2025-03-04 21:02:48", "level": "INFO", "message": "📦 Base module found: pkg.crm.infrastructure.persistence.models"}
+{"timestamp": "2025-03-04 21:02:48", "level": "INFO", "message": "✅ Loaded model: pkg.crm.infrastructure.persistence.models.discount_model"}
+{"timestamp": "2025-03-04 21:02:48", "level": "INFO", "message": "🔄 Initializing Tortoise with models: ['pkg.crm.infrastructure.persistence.models.discount_model']"}
+{"timestamp": "2025-03-04 21:02:48", "level": "INFO", "message": "✅ Connected database. Generating schematics..."}
+{"timestamp": "2025-03-04 21:02:48", "level": "INFO", "message": "🎉 Schemes generated successfully."}
+{"timestamp": "2025-03-04 21:19:37", "level": "INFO", "message": "🔌 Closing database connections..."}
+{"timestamp": "2025-03-04 21:19:37", "level": "INFO", "message": "✅ Database connections closed."}
